@@ -1,1 +1,2 @@
 Hello, this is a text file 
+"Додано зм?ни у файл example.txt в г?лц? feature-branch" 
