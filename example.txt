@@ -1,2 +1,6 @@
 Hello, this is a text file 
+<<<<<<< HEAD
 "Зм?ни у main г?лц? для конфл?кту" 
+=======
+"Додано зм?ни у файл example.txt в г?лц? feature-branch" 
+>>>>>>> feature-branch
