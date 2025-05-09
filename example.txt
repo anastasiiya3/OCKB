@@ -1,1 +1,2 @@
 Hello, this is a text file 
+"Зм?ни у main г?лц? для конфл?кту" 
